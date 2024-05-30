@@ -27,6 +27,8 @@
           </div>
           <div class="col-12">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+            <p class="text-center mt-4 text-sm text-gray-500">
+              {{ .image_credit }}
           </div>
         </div>
       </div>
