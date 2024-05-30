@@ -13,8 +13,6 @@ social:
     link: https://www.linkedin.com/in/ren%C3%A9-kuhn-b8966b288/
 ---
 
-I am interested in open source, Linux and  the cloud.
-Currently working at Terramate
 
 
-# hi 
+![](/images/rene-india.jpg)

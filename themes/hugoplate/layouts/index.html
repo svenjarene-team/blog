@@ -44,6 +44,8 @@
               md:order-2
             {{ end }} md:col-5 mb-6">
             {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+            <p class="text-center mt-4 text-sm text-gray-500">
+              {{ .image_credit }}
           </div>
           <div
             class="{{ if not (modBool $i 2) }}

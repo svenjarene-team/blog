@@ -14,7 +14,8 @@ banner:
 # Features Section
 features:
   - title: "About Svenja & René"
-    image: "/images/about-us.png"
+    image: "/images/svenja-rene-taj-mahal.jpg"
+    image_credit: "Taj Mahal, India 🇮🇳"
     content: "We are a dynamic duo with a shared love for technology. Svenja is currently studying Business Informatics at HTW Berlin, while René is a self-taught developer working on a Golang backend at Terramate. Together, we aim to make a significant impact in the field of computer science."
     button:
       enable: true
@@ -22,7 +23,8 @@ features:
       link: "#our-story"
 
   - title: "Our Goals"
-    image: "/images/goals.png"
+    image: "/images/svneja-rene-desert.jpg"
+    image_credit: "Desert near Riyadh, Saudi Arabia 🇸🇦"
     content: "We are motivated by the desire to meet like-minded people, continuously learn and grow, and contribute to the tech community. Our goals include:"
     bulletpoints:
       - "Networking with other passionate developers and professionals."
