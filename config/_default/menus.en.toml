@@ -17,9 +17,14 @@ pageRef = "/about"
 weight = 3
 
 [[main]]
-name = "Authors"
-pageRef = "/authors"
+name = "Svenja"
+pageRef = "authors/svenja-dunger"
 weight = 4
+
+[[main]]
+name = "René"
+pageRef = "/authors/rené-kuhn/"
+weight = 5
 
 # footer menu
 [[footer]]
@@ -41,3 +46,4 @@ weight = 3
 name = "Authors"
 pageRef = "/authors"
 weight = 4
+
