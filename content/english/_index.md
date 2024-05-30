@@ -4,7 +4,7 @@
 banner:
   title: "Svenja & René: Developer Duo"
   content: "Welcome to our personal website! We are Svenja and René, a passionate developer couple. Explore our journey in the world of technology, our projects, and our aspirations."
-  image: "/images/banner.png"
+  image: "/images/banner-svenja-rene-shanghai.jpg"
   button:
     enable: true
     label: "Learn More About Us"
