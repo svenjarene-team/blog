@@ -10,7 +10,14 @@
             </h1>
             <p class="mb-8">
               {{ .content | markdownify }}
-            </p>
+            </p>  <p >
+             <script>document.write("Today is a good day to celebrate 🥳  " + Math.floor((new Date() - new Date("2019-01-02")) / (1000 * 60 * 60 * 24)) + " days of gowth together since 02.01.2019 👫");</script>
+
+              {{/*  Make an Empty line  */}}
+              <br>
+            </br>
+            </p> 
+
             {{ with .button }}
               {{ if .enable }}
                 <a
@@ -31,6 +38,10 @@
               {{ .image_credit }}
             </p>
           </div>
+          <p >
+             <script>document.write(" " + Math.floor((new Date() - new Date("2019-01-02")) / (1000 * 60 * 60 * 24)) + " days since 02.01.2019");</script>
+
+          </p>
         </div>
       </div>
     </section>
