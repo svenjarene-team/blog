@@ -53,9 +53,9 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = false
+enable = true
 expire_days = 7
-content = "You must replace the **baseURL** in **hugo.toml** [file](google.com) when deploying, you can manage this announcement from the **params.toml** file."
+content = "This website is under construction. Please excuse the mess."
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
