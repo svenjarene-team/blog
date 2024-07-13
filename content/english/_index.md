@@ -7,7 +7,7 @@ banner:
   image: "/images/svenja-rene-shanghai.jpg"
   image_credit: "Port of Shanghai, China 🇨🇳"
   button:
-    enable: true
+    enable: false
     label: "Learn More About Us"
     link: "#about-us"
 
@@ -18,7 +18,7 @@ features:
     image_credit: "Taj Mahal, India 🇮🇳"
     content: "Hello! We are Svenja and René, a humble developer couple with a shared love for technology. Svenja is studying Business Informatics at HTW Berlin, and René is a self-taught developer working on Golang backend systems at Terramate. Together, we strive to learn, grow, and contribute positively to the field of computer science."
     button:
-      enable: true
+      enable: false
       label: "Read Our Story"
       link: "#our-story"
 
@@ -44,7 +44,7 @@ features:
       - "Learning technologies such as Git, GitHub, and React."
       - "Passionate about learning new languages and cultures."
     button:
-      enable: true
+      enable: false
       label: "Learn More"
       link: "https://www.htw-berlin.de/"
 
@@ -69,7 +69,7 @@ features:
       - "Learning technologies such as Git, GitHub, and React."
       - "Passionate about learning new languages and cultures."
     button:
-      enable: true
+      enable: false
       label: "View Svenja's Portfolio"
       link: "#svenja-portfolio"
 
@@ -81,7 +81,7 @@ features:
       - "Gaining experience with cloud infrastructure and DevOps."
       - "Dedicated to continuous learning and professional development."
     button:
-      enable: true
+      enable: false
       label: "View René's Projects"
       link: "#rene-projects"
 ---
