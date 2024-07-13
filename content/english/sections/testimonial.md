@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "What People Are Saying About Us"
 description: "We are humbled and grateful for the kind words from our former teachers, mentors, friends, neighbors, and those who know us as a strong couple. Here’s what they have to say about us individually and together."
 
