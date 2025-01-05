@@ -6,7 +6,7 @@ date: 2025-01-05T10:30:00Z
 image: "images/release-party-images/DSC_0650.JPG"
 categories: ["Open Source", "Community","Fedora"]
 author: "René Kuhn"
-tags: ["fedora", "linux", "release-party", "hpi"]
+tags: ["fedora", "linux", "release-party", "HPI"]
 draft: false
 ---
 
