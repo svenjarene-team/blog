@@ -31,7 +31,7 @@ Stelle sicher, dass du im gleichen Verzeichnis bist, in dem sich deine PKCS12-Da
 
 ```bash
 cd ~/Downloads && \
-curl -o configure-eduroam-with-easyroam https://gist.githubusercontent.com/RocketRene/290482efa34e7a31664f033c4b587034/raw/configure-eduroam-with-easyroam && \
+curl -o configure-eduroam-with-easyroam https://gist.githubusercontent.com/RocketRene/290482efa34e7a31664f033c4b587034/raw/b2fe4f68b63017482fc24f7be1f90e62467894c3/configure-eduroam-with-easyroam.sh && \
 chmod +x configure-eduroam-with-easyroam
 ```
 
