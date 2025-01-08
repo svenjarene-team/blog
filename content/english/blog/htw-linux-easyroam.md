@@ -26,28 +26,40 @@ Stelle sicher, dass du im gleichen Verzeichnis bist, in dem sich deine PKCS12-Da
 ## Quick Setup
 
 1. Auf [easyroam.de](https://easyroam.de) einloggen
-2. "Manuelle Optionen" wählen und PKCS12-Profil erstellen
-3. Installer herunterladen und ausführen:
+2. "Manuelle Optionen" wählen und PKCS12-Profil erstellen und herunterladen
+   - Die heruntergeladene Datei hat normalerweise einen Namen wie "easyroam-zertifikat.p12"
+   - Merke dir, wo die Datei gespeichert wurde (standardmäßig im Downloads-Ordner)
 
+3. Öffne ein Terminal (drücke STRG+ALT+T) und führe folgende Befehle aus:
+
+Erster Befehl (kopiere den gesamten Block und führe ihn aus):
 ```bash
 cd ~/Downloads && \
 curl -o configure-eduroam-with-easyroam https://gist.githubusercontent.com/RocketRene/290482efa34e7a31664f033c4b587034/raw/b2fe4f68b63017482fc24f7be1f90e62467894c3/configure-eduroam-with-easyroam.sh && \
 chmod +x configure-eduroam-with-easyroam
 ```
 
-Dann kannst du den Installer folgendermaßen ausführen
-
+Zweiter Befehl (WICHTIG: Passe den Dateinamen an!):
 ```bash
-./configure-eduroam-with-easyroam "deine-pkcs12-datei"
+./configure-eduroam-with-easyroam "easyroam-zertifikat.p12"
 ```
 
+⚠️ WICHTIG: Ersetze "easyroam-zertifikat.p12" mit dem tatsächlichen Namen deiner heruntergeladenen PKCS12-Datei. Der Name könnte zum Beispiel auch "htw-berlin.p12" oder ähnlich sein.
+
 {{< notice "tip" >}}
-Du kannst mit `ls` überprüfen, ob sich die PKCS12-Datei im aktuellen Verzeichnis befindet.
+Du kannst mit dem Befehl `ls` alle Dateien im aktuellen Verzeichnis anzeigen lassen. So findest du den genauen Namen deiner PKCS12-Datei.
 {{< /notice >}}
 
 {{< notice "info" >}}
 Der Installer richtet automatisch die nötigen NetworkManager-Einstellungen ein. Nach der Installation solltest du dich sofort mit eduroam verbinden können.
 {{< /notice >}}
+
+## Fehlerbehebung
+
+Falls der zweite Befehl nicht funktioniert, überprüfe folgendes:
+1. Ist der Dateiname in Anführungszeichen gesetzt? (z.B. "easyroam-zertifikat.p12")
+2. Befindet sich die Datei im Downloads-Ordner?
+3. Hast du den korrekten Dateinamen verwendet? Nutze `ls` zum Überprüfen.
 
 ## Hinweise
 - Funktioniert nur mit NetworkManager
