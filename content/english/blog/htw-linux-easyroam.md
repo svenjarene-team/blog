@@ -30,7 +30,8 @@ Stelle sicher, dass du im gleichen Verzeichnis bist, in dem sich deine PKCS12-Da
 3. Installer herunterladen und ausführen:
 
 ```bash
-curl -O https://gist.github.com/RocketRene/290482efa34e7a31664f033c4b587034&& \
+cd ~/Downloads && \
+curl -o configure-eduroam-with-easyroam https://gist.githubusercontent.com/RocketRene/290482efa34e7a31664f033c4b587034/raw/configure-eduroam-with-easyroam && \
 chmod +x configure-eduroam-with-easyroam
 ```
 
