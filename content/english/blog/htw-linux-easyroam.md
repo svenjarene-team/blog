@@ -9,7 +9,6 @@ tags: ["linux", "ubuntu", "fedora", "eduroam", "easyroam", "htw-berlin", "networ
 draft: false
 ---
 
-# TIL: Easyroam auf Linux (Ubuntu/Fedora) an der HTW Berlin einrichten
 
 Schnelle Anleitung zum Einrichten von Easyroam (eduroam) auf Linux-Systemen an der HTW Berlin.
 
