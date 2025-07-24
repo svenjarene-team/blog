@@ -1,6 +1,6 @@
 ---
 title: "Shams App"
-date: 2025-24-07
+date: 2025-07-24T21:47:41Z
 draft: false
 author: "Svenja Dunger"
 
