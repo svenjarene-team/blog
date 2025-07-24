@@ -1,9 +1,8 @@
 ---
 title: "Shams App"
-date: 2025-05-03T16:18:50+02:00
+date: 2025-24-07
 draft: false
 author: "Svenja Dunger"
-image: "/images/goreleaser/goreleaser.webp"
 
 ---
 
