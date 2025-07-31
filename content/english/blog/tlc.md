@@ -2,8 +2,8 @@
 title: "Reflection on the 2025 HPI Tech-Leadership-Conference"
 meta_title: "Reflection on the 2025 HPI Tech-Leadership-Conference"
 description: "A personal reflection on moderating at the HPI Tech-Leadership-Conference 2025, insights from AI industry leaders, and thoughts on European AI sovereignty."
-date: 2025-01-25T10:00:00Z
-image: "/images/tlc.JPG"
+date: 2025-07-25T10:00:00Z
+image: "images/tlc.JPG"
 categories: ["Technology", "AI", "Leadership"]
 author: "René Kuhn"
 tags: ["AI", "conference", "leadership", "europe", "aleph-alpha", "google", "gemini"]
@@ -24,7 +24,7 @@ Beyond the content, I am deeply grateful for the collaboration within my team. L
 
 ## Outlook and Personal Development
 
-![](images/tlc-images/tlc1.JPG)
+![]( images/tlc-images/tlc1.JPG )
 
 This conference marked a turning point for me. I realized that in order to contribute meaningfully to the field of AI, I need to move closer to its foundational layer—where models are built, not merely applied. The discussions at the TLC sparked a strong desire in me to deepen my understanding of foundational AI by immersing myself in environments where these systems are actively developed. In particular, I became convinced that I need to gain experience in the United States, where many of the most advanced research efforts are taking place. I am currently exploring opportunities that would allow me to learn firsthand how such technologies are built and scaled, ideally in close collaboration with leading research teams. This reflection has helped me realign my goals, and I now feel a clearer sense of direction for my future steps.
 
