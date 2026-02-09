@@ -3,7 +3,7 @@ title: "Reflection on the 2025 HPI Tech-Leadership-Conference"
 meta_title: "Reflection on the 2025 HPI Tech-Leadership-Conference"
 description: "A personal reflection on moderating at the HPI Tech-Leadership-Conference 2025, insights from AI industry leaders, and thoughts on European AI sovereignty."
 date: 2025-07-25T10:00:00Z
-image: "tlc.JPG"
+image: "images/tlc/tlc1.JPG"
 categories: ["Technology", "AI", "Leadership"]
 author: "René Kuhn"
 tags: ["AI", "conference", "leadership", "europe", "aleph-alpha", "google", "gemini"]
@@ -13,8 +13,6 @@ draft: false
 **TL;DR:** I moderated a spotlight session at the HPI Tech-Leadership-Conference 2025, interviewing Aleph Alpha's VP of AI. While disappointed by the lack of European AI sovereignty, I left inspired by Google's Gemini demo and with a clearer goal: to gain hands-on experience building foundational AI models.
 
 ---
-
-![](tlc1.JPG)
 
 The HPI Tech-Leadership-Conference (TLC) 2025 provided a rare opportunity to engage with decision-makers from Europe's technology ecosystem and beyond. As part of this year's student moderator team, I had the privilege to facilitate the spotlight session featuring Johann Dornbach, VP AI Frontier at Aleph Alpha. In preparation for this role, I conducted in-depth research into Aleph Alpha's positioning, their published work, and current debates in the foundation model landscape. Together with my team, we crafted a set of thoughtful questions for the panel, aiming to go beyond surface-level praise and enter a meaningful dialogue.
 
