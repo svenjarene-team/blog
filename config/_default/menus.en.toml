@@ -23,7 +23,7 @@ weight = 4
 
 [[main]]
 name = "René"
-pageRef = "/authors/rené-kuhn"
+pageRef = "/authors/rene"
 weight = 5
 
 # footer menu
